@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure--!dz#rur9x&c)01df^oqf92px!#^6$-)zwdrxpddwy9ww6*80e
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'animated-funicular-r95pqg5jq5x3xw6r-8000.app.github.dev']
 
 
 # Application definition
